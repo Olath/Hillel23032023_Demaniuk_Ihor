@@ -22,7 +22,11 @@ public class Cat {
   }
 
   public void setAge(int age) {
-    this.age = age;
+    if (age < 0){
+      age = 1;}
+    else {
+      this.age = age;
+    }
   }
 
   public String getColor(){
