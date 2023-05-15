@@ -41,5 +41,9 @@ public class ProductTest {
     String category;
     double price;
     double discount;
+
+    public String getName(){
+      return name;
+    }
   }
 }
