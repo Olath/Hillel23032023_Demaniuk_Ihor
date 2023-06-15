@@ -1,9 +1,7 @@
 package UA.Hillel.Lesson13;
 
 import java.util.Random;
-import java.util.function.Consumer;
 import java.util.function.Function;
-import java.util.function.Predicate;
 import java.util.function.Supplier;
 
 public class LambdaEx {

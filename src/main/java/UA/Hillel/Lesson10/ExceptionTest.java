@@ -1,6 +1,5 @@
 package UA.Hillel.Lesson10;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class ExceptionTest {
