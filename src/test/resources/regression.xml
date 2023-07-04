@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+  <test name="Nopackage" >
+<!--  <classes>-->
+<!--    <class name="ua.hillel29032023.tests.Lesson15.FirstTest"/>-->
+<!--    <class name="ua.hillel29032023.tests.Lesson15.SecondTest"/>-->
+<!--    <class name="ua.hillel29032023.tests.Lesson15.TestClass"/>-->
+<!--  </classes>-->
+  </test>
+  <suite-files>
+    <suite-file path="cart.xml"/>
+    <suite-file path="order.xml"/>
+    <suite-file path="login.xml"/>
+  </suite-files>
+</suite>
