@@ -1,0 +1,3 @@
+name=adminName
+pass=adminPass
+role=adminRole

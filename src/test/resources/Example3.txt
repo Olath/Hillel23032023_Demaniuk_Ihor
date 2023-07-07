@@ -1,0 +1,3 @@
+name=guestName
+pass=guestPass
+role=guestRole

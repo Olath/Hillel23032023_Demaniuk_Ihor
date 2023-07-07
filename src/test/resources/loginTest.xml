@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Stuff" verbose="1" >
+  <test name="login" >
+    <groups>
+      <run>
+        <include name="other"/>
+        <include name="login"/>
+        <include name="stuff"/>
+      </run>
+    </groups>
+    <packages>
+      <package name="ua.hillel29032023.tests.Home15"/>
+    </packages>
+  </test>
+</suite>
