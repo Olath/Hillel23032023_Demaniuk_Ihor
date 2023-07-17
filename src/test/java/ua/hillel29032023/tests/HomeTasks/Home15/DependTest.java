@@ -1,4 +1,4 @@
-package ua.hillel29032023.tests.Home15;
+package ua.hillel29032023.tests.HomeTasks.Home15;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
